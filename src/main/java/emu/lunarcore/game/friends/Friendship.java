@@ -32,6 +32,7 @@ public class Friendship {
         this.ownerUid = owner.getUid();
         this.friendUid = friend.getUid();
         this.askerUid = asker.getUid();
+        // rfrgtrghth
     }
     
     // Database functions
